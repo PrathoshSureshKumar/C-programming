@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main() 
+{
+	int ascii_value;
+    printf("enter the ascii value(0-255):");
+    scanf("%d",&ascii_value);
+   
+        printf("the char for ASCIIvalue %d is :+,ascii_value,ascii_value);   
+  
+   
+    return 0;
+}
